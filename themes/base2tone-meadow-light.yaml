@@ -1,0 +1,24 @@
+name: Base2Tone Meadow Light
+accent: '#80bf40'
+background: '#fafbf9'
+foreground: '#335166'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#192834'
+    red: '#277fbe'
+    green: '#80bf40'
+    yellow: '#a6f655'
+    blue: '#4299d7'
+    magenta: '#66a329'
+    cyan: '#47adf5'
+    white: '#7b9eb7'
+  bright:
+    black: '#3d5e76'
+    red: '#8cdd3c'
+    green: '#223644'
+    yellow: '#335166'
+    blue: '#466b86'
+    magenta: '#afddfe'
+    cyan: '#73b234'
+    white: '#fafbf9'

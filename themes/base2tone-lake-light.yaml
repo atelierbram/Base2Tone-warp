@@ -1,0 +1,24 @@
+name: Base2Tone Lake Light
+accent: '#cbbb4d'
+background: '#fafaf9'
+foreground: '#335966'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#192d34'
+    red: '#3e91ac'
+    green: '#cbbb4d'
+    yellow: '#ffeb66'
+    blue: '#499fbc'
+    magenta: '#b7a21a'
+    cyan: '#62b1cb'
+    white: '#7ba8b7'
+  bright:
+    black: '#3d6876'
+    red: '#d6c65c'
+    green: '#223c44'
+    yellow: '#335966'
+    blue: '#467686'
+    magenta: '#a5d8e9'
+    cyan: '#c4b031'
+    white: '#fafaf9'

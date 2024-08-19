@@ -1,0 +1,24 @@
+name: Base2Tone Space Light
+accent: '#ec7336'
+background: '#fbf9f9'
+foreground: '#515167'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#24242e'
+    red: '#7676f4'
+    green: '#ec7336'
+    yellow: '#fe8c52'
+    blue: '#767693'
+    magenta: '#dd672c'
+    cyan: '#8a8aad'
+    white: '#a1a1b5'
+  bright:
+    black: '#5b5b76'
+    red: '#f37b3f'
+    green: '#333342'
+    yellow: '#515167'
+    blue: '#737391'
+    magenta: '#cecee3'
+    cyan: '#e66e33'
+    white: '#fbf9f9'

@@ -1,0 +1,24 @@
+name: Base2Tone Suburb Light
+accent: '#fb6fa9'
+background: '#fbf9fa'
+foreground: '#444864'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#1e202f'
+    red: '#7586f5'
+    green: '#fb6fa9'
+    yellow: '#ffb3d2'
+    blue: '#8696fd'
+    magenta: '#f25a99'
+    cyan: '#a0acfe'
+    white: '#878ba6'
+  bright:
+    black: '#4f5472'
+    red: '#fe81b5'
+    green: '#292c3d'
+    yellow: '#444864'
+    blue: '#5b6080'
+    magenta: '#d2d8fe'
+    cyan: '#f764a1'
+    white: '#fbf9fa'

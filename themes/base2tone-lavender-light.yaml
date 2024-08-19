@@ -1,0 +1,24 @@
+name: Base2Tone Lavender Light
+accent: '#d294ff'
+background: '#faf8fc'
+foreground: '#4b455f'
+details: lighter
+terminal_colors:
+  normal:
+    black: '#201d2a'
+    red: '#9375f5'
+    green: '#d294ff'
+    yellow: '#ecd1ff'
+    blue: '#a286fd'
+    magenta: '#c16bff'
+    cyan: '#b5a0fe'
+    white: '#9992b0'
+  bright:
+    black: '#625a7c'
+    red: '#dba8ff'
+    green: '#2c2839'
+    yellow: '#4b455f'
+    blue: '#6e658b'
+    magenta: '#dcd2fe'
+    cyan: '#ca80ff'
+    white: '#faf8fc'

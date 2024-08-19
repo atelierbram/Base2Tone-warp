@@ -1,0 +1,25 @@
+<?php
+echo "name: $theme_name Light\n";
+echo "accent: '$B2T_D4'\n";
+echo "background: '$B2T_C7'\n";
+echo "foreground: '$B2T_A2'\n";
+echo "details: lighter\n";
+echo "terminal_colors:\n";
+echo "  normal:\n";
+echo "    black: '$B2T_A0'\n";
+echo "    red: '$B2T_B2'\n";
+echo "    green: '$B2T_D4'\n";
+echo "    yellow: '$B2T_D7'\n";
+echo "    blue: '$B2T_B3'\n";
+echo "    magenta: '$B2T_D2'\n";
+echo "    cyan: '$B2T_B4'\n";
+echo "    white: '$B2T_A6'\n";
+echo "  bright:\n";
+echo "    black: '$B2T_A3'\n";
+echo "    red: '$B2T_D5'\n";
+echo "    green: '$B2T_A1'\n";
+echo "    yellow: '$B2T_A2'\n";
+echo "    blue: '$B2T_A4'\n";
+echo "    magenta: '$B2T_B6'\n";
+echo "    cyan: '$B2T_D3'\n";
+echo "    white: '$B2T_C7'\n";
